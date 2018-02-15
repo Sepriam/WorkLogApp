@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "workLogCP", "workLogCP\workLogCP.csproj", "{9341FABF-9C95-4459-952D-3464AED8C00D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9341FABF-9C95-4459-952D-3464AED8C00D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9341FABF-9C95-4459-952D-3464AED8C00D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9341FABF-9C95-4459-952D-3464AED8C00D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9341FABF-9C95-4459-952D-3464AED8C00D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06D19D12-BF2C-4ED3-BD6C-1B277F20E117}
+	EndGlobalSection
+EndGlobal

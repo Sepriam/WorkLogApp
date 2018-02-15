@@ -1,0 +1,2 @@
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\workLogCP\workLogCP\obj\Debug\workLogCP.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\workLogCP\workLogCP\obj\Debug\workLogCP.csproj.CoreCompileInputs.cache
